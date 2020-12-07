@@ -144,6 +144,7 @@
   .key-feature {
     width: 30%;
     display: inline-block;
+    max-width: 25rem;
   }
 }
 
